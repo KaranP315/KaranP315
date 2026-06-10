@@ -33,7 +33,9 @@ Unsupervised anomalous sound detection system based on a diffusion model for mac
 Machine learning and ensemble-based intrusion detection project using NSL-KDD data to classify network traffic as normal or malicious.
 
 #### [TrainConsistManagementApp](https://github.com/KaranP315/TrainConsistManagementApp)
-Java-based train consist management application that models railway operations through structured use cases such as cargo handling, search workflows, exception handling, and performance comparison using loops versus streams.
+Java-based train consist management application that models railway operations through structured use cases such as cargo handling, search workflows, exception handling, and performance comparison using loops versus streams. 
+
+
 
 ---
 
